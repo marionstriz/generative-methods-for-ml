@@ -1,2 +1,3 @@
 # generative-methods-for-ml
-Jupyter notebooks for data transformations, imgae generation and training object detection models.
+
+Jupyter notebooks for data transformations, image generation and training object detection models.
